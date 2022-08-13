@@ -1,0 +1,9 @@
+Flask
+Werkzeug
+opencensus-ext-azure
+opencensus-ext-flask
+opencensus-ext-logging
+opencensus.ext.requests
+requests
+Jinja2
+MarkupSafe

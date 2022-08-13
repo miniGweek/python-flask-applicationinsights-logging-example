@@ -1,0 +1,4 @@
+requests
+opencensus-ext-azure
+opencensus-ext-logging
+opencensus-ext-requests
